@@ -7,9 +7,11 @@ layout: default
 	<h3>Banks</h3>
 	<table width="100%">
   {% for bank in site.data.banks.banks %}
-  	<td><a href="https://www.google.com/search?q={{ bank.name }}&oq={{ bank.name }}&aqs=chrome.0.0j69i57j0l4.2717j0j8&sourceid=chrome&ie=UTF-8" target="_blank">{{ bank.name }}</a></td>
-		<td>{{ bank.city }} {{ bank.country_of_registration }}</td>
-		<td>{{ bank.category }}</td>
+		<tr>
+	  	<td><a href="https://www.google.com/search?q={{ bank.name }}&oq={{ bank.name }}&aqs=chrome.0.0j69i57j0l4.2717j0j8&sourceid=chrome&ie=UTF-8" target="_blank">{{ bank.name }}</a></td>
+			<td>{{ bank.city }} {{ bank.country_of_registration }}</td>
+			<td>{{ bank.category }}</td>
+		</tr>
   {% endfor %}
 	</table>
   </div>
