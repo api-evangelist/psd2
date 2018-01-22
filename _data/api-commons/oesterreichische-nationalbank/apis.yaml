@@ -1,0 +1,23 @@
+name: Oesterreichische Nationalbank
+description: Die Oesterreichische Nationalbank (OeNB) ist die Zentralbank der Republik
+  u00d6sterreich und als solche integraler Bestandteil des Eurosystems.   oenb.info@oenb.at
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27942-www-oenb-at.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/oesterreichische-nationalbank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: posteingang@oenb.at
+- type: x-twitter
+  url: https://twitter.com/oenb
+- type: x-website
+  url: https://www.oenb.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
