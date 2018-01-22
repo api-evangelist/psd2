@@ -1,0 +1,40 @@
+name: Bru00fcll Kallmus Bank
+description: Viele Banken machen alles. Wir nur eines, das dafu00fcr aber richtig.
+  Wir sind das spezialisierte Bond-Haus in u00d6sterreich.
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bru00fcll-kallmus-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: office.graz@bkbank.at
+- type: x-email
+  url: office.wien@bkbank.at
+- type: x-email
+  url: office.linz@bkbank.at
+- type: x-email
+  url: office.slowenien@bkbank.at
+- type: x-email
+  url: office@bkbank.at
+- type: x-email
+  url: haiden@bkbank.at
+- type: x-email
+  url: mitterer@bkbank.at
+- type: x-email
+  url: pirstinger@bkbank.at
+- type: x-email
+  url: pretterhofer-kettner@bkbank.at
+- type: x-email
+  url: furtmueller@bkbank.at
+- type: x-website
+  url: https://www.bkbank.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
