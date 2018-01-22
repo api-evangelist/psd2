@@ -1,0 +1,23 @@
+name: Banque de Luxembourg
+description: Luxembourg private bank offering you responsible solutions for protecting,
+  enhancing and passing on your wealth. Supporting you at every stage of your life.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28041-www-banquedeluxembourg-com.jpg
+tags:
+- Financial Services
+- EU Bank
+- Asset Management
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/banque-de-luxembourg/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/BLNEWS
+- type: x-website
+  url: https://www.banquedeluxembourg.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
