@@ -1,0 +1,27 @@
+name: Mercedes-Benz Bank
+description: Die Mercedes-Benz Bank ist eine der fu00fchrenden Autobanken in Deutschland.
+  Sie ist ein Tochterunternehmen von Daimler Financial Services, dem weltweiten Finanzdienstleister
+  des Daimler Konzerns.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27972-www-mercedes-benz-bank-de.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/mercedesbenz-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mercedes-benz-usa
+- type: x-email
+  url: kundenservice@mercedes-benz-bank.com
+- type: x-email
+  url: bonusprogramm@mercedes-benz-bank.com
+- type: x-website
+  url: https://www.mercedes-benz-bank.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
