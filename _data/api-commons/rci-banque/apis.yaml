@@ -1,0 +1,23 @@
+name: RCI Banque
+description: ""
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27973-www-rcibs-com.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/rci-banque/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/rci-banque-s-a
+- type: x-email
+  url: sophie.guiot@rcibanque.com
+- type: x-website
+  url: https://www.rcibs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
