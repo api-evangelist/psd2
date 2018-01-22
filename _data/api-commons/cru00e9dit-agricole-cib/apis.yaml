@@ -1,0 +1,26 @@
+name: Cru00e9dit Agricole CIB
+description: Cru00e9dit Agricole CIB is the Corporate and Investment Banking arm of
+  the Cru00e9dit Agricole Group, the world's nu00b011 bank measured by Tier One Capital  (The
+  Banker, July 2016).
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28051-www-ca-cib-com.jpg
+tags:
+- Financial Services
+- Finance
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/cru00e9dit-agricole-cib/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/credit-agricole-cib
+- type: x-twitter
+  url: https://twitter.com/CA_CIB
+- type: x-website
+  url: https://www.ca-cib.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
