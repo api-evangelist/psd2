@@ -1,0 +1,22 @@
+name: Argenta Belgiu00eb
+description: Bienvenue chez Argenta. Connectez-vous u00e0 la banque par internet,
+  du00e9couvrez des informations quant u00e0 nos propositions et trouvez une agence
+  dans vos environs.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28033-www-argenta-be.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/argenta-belgiu00eb/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/argenta
+- type: x-website
+  url: https://www.argenta.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
