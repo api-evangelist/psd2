@@ -1,24 +1,70 @@
 ---
-layout: page
+layout: default
+title: API Evangelist - 311
 ---
 
-<!-- Banner -->
+<!-- Main -->
+{% assign home_content = site.data.home_content.index[0] %}
 <section id="banner">
 	<div class="content">
 		<header>
-			<h2>I am Kin Lane, the API Evangelist...</h2>
+			<h2>{{ home_content.title }}</h2>
 		</header>
-		<img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-api-evangelist-cartoon.png" alt="" width="20%" align="right" />
-		<p>[The Payment Services Directive (PSD, 2007/64/EC) is an EU Directive, administered by the European Commission (Directorate General Internal Market) to regulate payment services and payment service providers throughout the European Union (EU) and European Economic Area (EEA). The Directive's purpose was to increase pan-European competition and participation in the payments industry also from non-banks, and to provide for a level playing field by harmonizing consumer protection and the rights and obligations for payment providers and users. On October 8, 2015, the European Parliament adopted the European Commission proposal to create safer and more innovative European payments (PSD2). The new rules aim to better protect consumers when they pay online, promote the development and use of innovative online and mobile payments such us through open banking, and make cross-border European payment services safer.](https://en.wikipedia.org/wiki/Payment_Services_Directive)</p>
-		<p>This is my research into PSD2, and developing a better understanding of the EU is rolling out the API requirements, how banks are responding, and 3rd party integrators, and end-users responding to it all. Like other areas of the API sector, I'll be curating my research here, sharing links, and stories around PSD2. Thanks to the support of Streamdata.io, I'm able to carve out the time to better understand what is going on with the banking API regulations. The regulations provides one of the few examples of government stepping in to mandate APIs, and what happens here will have effects far beyond just the banking and fintech space.</p>
+		<p align="right"><img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-cartoon-questioning.png" alt="Kin Lane" width="22%" align="right" /></p>
+		<p>{{ home_content.content }}</p>
 	</div>
 </section>
 
-<!-- Banner -->
+<!-- Partners -->
+<a name="Partners"></a>
+<section>
+	<header>
+		<h2>API Evangelist Partners</h2>
+		<p>These are my partners who invest in API Evangelist each month, helping underwrite my research, and making sure I'm able to keep monitoring the API space as I do.</p>
+	</header>
+	<div class="features">
+		{% assign partners = site.data.partners.index | sort: 'view_sort' %}
+    {% for partner in partners %}
+      {% if partner.type == 'Sponsor' %}
+			<article>
+				<p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px;" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
+					<p>{{ partner.description }}</p>
+				</div>
+			</article>
+      {% endif %}
+    {% endfor %}
+	</div>
+</section>
+
+<!-- Organizations -->
+<a name="Organizations"></a>
+{% assign organization_content = site.data.organization_content.index[0] %}
+<section>
+	<header>
+		<h2>{{ organization_content.title }}</h2>
+	</header>
+	<p>{{ organization_content.header }}</p>
+	<div class="features">
+
+		{% include organizations.html %}
+
+	</div>
+	<p>{{ organization_content.footer }}</p>
+</section>
+
+<!-- About This Research -->
+{% assign about_content = site.data.home_content.index[1] %}
+<a name="About"></a>
 <section id="banner">
 	<div class="content">
-		<center>
-		<a href="http://apis.how/streamdata"><img src="https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-io-underwritten.png" alt="" width="75%" align="center" /></a>
-		</center>
+		<header>
+			<h2>{{ about_content.title }}</h2>
+		</header>
+		{{ about_content.content }}
 	</div>
+	<span class="image object">
+		<img src="{{ about_content.image }}" alt="" width="25%" />
+	</span>
 </section>
