@@ -1,0 +1,25 @@
+name: ABN AMRO
+description: Welcome to ABN AMRO. ABN AMRO is an all-round Dutch bank that offers
+  a full range of products and services to retail, private, corporate clients.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28032-www-abnamro-com.jpg
+tags:
+- Financial Services
+- EU Bank
+- Asset Management
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/abn-amro/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/abn-amro
+- type: x-twitter
+  url: https://twitter.com/ABNAMRO_News
+- type: x-website
+  url: https://www.abnamro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
