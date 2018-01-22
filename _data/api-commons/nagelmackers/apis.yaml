@@ -1,0 +1,22 @@
+name: Nagelmackers
+description: Reken niet op geluk om uw dromen te realiseren. Vertaal samen met ons
+  uw verhaal naar een ernstig vermogensplan.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28043-www-nagelmackers-be.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/nagelmackers/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/Nagelmackers_BE
+- type: x-website
+  url: https://www.nagelmackers.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
