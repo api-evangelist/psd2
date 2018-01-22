@@ -1,0 +1,21 @@
+name: FCA BANK
+description: FCA Bank propone un'ampia gamma di finanziamenti per il settore automobilistico
+  dalle reti di vendita, ai clienti privati e aziende nei piu00f9 importanti Paesi
+  europei.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27992-www-fcabankgroup-com.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/fca-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fcabankgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
