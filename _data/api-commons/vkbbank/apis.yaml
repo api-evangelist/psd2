@@ -1,0 +1,31 @@
+name: VKB-Bank
+description: VKB-Bank - ein regionaler und kapitalstarker Partner fu00fcr Ihre Finanzen!    Regionale
+  Verantwortung heiu00dft fu00fcr die VKB-Bank mit ihren 34 Filialen, dass Geld aus
+  Oberu00f6sterreich in Oberu00f6sterreich bleibt und nachhaltig zur Stu00e4rkung
+  der heimischen Wirtschaft...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27957-www-vkb-bank-at.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/vkbbank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: service@vkb-bank.at
+- type: x-email
+  url: romana.rahofer@vkb-bank.at
+- type: x-email
+  url: sonja.pamminger@vkb-bank.at
+- type: x-email
+  url: elba.service@vkb-bank.at
+- type: x-twitter
+  url: https://twitter.com/vkbbank
+- type: x-website
+  url: https://www.vkb-bank.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
