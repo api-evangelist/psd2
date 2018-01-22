@@ -1,0 +1,43 @@
+name: NIBC Bank
+description: NIBC Bank NV is a Corporate bank focused on its clients' most decisive
+  financial moments. Debt, mezzanine and equity financing and capital markets solutions.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28057-www-nibc-com.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/nibc-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/nibc-capital-partners
+- type: x-email
+  url: askhr@nibc.com
+- type: x-email
+  url: nibcamsterdam@nibc.com
+- type: x-email
+  url: Hilde.Verzele@nibc.com
+- type: x-email
+  url: info@nibc.com
+- type: x-email
+  url: accounts.payable@nibc.com
+- type: x-email
+  url: Judith.Jansen@nibc.com
+- type: x-email
+  url: charlotte.mercadie@nibc.com
+- type: x-email
+  url: carmen.van.weelden@nibc.com
+- type: x-email
+  url: careers.frankfurt@nibc.com
+- type: x-email
+  url: recruitmentuk@nibc.com
+- type: x-twitter
+  url: https://twitter.com/NIBC_Bank
+- type: x-website
+  url: https://www.nibc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
