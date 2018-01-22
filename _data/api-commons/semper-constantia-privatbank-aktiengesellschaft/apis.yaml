@@ -1,0 +1,19 @@
+name: Semper Constantia Privatbank Aktiengesellschaft
+description: ""
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28029-www-semperconstantia-at.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/semper-constantia-privatbank-aktiengesellschaft/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.semperconstantia.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
