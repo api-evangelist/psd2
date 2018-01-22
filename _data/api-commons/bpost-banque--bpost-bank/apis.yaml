@@ -1,0 +1,21 @@
+name: bpost banque / bpost bank
+description: Chez bpost banque, vous trouverez toutes les informations sur les comptes,
+  les pru00eats, les assurances et les placements. Nous serons heureux de vous aider.
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bpost-banque--bpost-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bpost-banque-bpost-bank
+- type: x-website
+  url: https://www.bpostbanque.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
