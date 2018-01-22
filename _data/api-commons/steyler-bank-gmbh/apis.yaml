@@ -1,0 +1,27 @@
+name: Steyler Bank GmbH
+description: Steyler Ethik-Bank - Wo Geld Gutes schafft. Einzige Missionsbank Europas
+  und Ethik-Bank seit 1964. Ihr Finanzpartner fu00fcr nachhaltige und ethische Geldanlagen.
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/steyler-bank-gmbh/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: kontakt@steyler-bank.de
+- type: x-email
+  url: info@steyler-bank.de
+- type: x-email
+  url: kontakt@steylerbank.de
+- type: x-email
+  url: info@steyler-bank.at
+- type: x-website
+  url: https://www.steyler-bank.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
