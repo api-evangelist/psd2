@@ -1,0 +1,20 @@
+name: paybox
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/paybox/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/paybox-payment-solutions
+- type: x-website
+  url: https://www.paybox.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
