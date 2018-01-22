@@ -1,0 +1,21 @@
+name: Oberbank
+description: ' # 10004 informative topics  # 10004 latest news  # 10004 figures  reports  #
+  10004 current job offers and much more - Oberbank. Not like any other bank.'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27948-www-oberbank-com.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/oberbank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/OberbankAG
+- type: x-website
+  url: https://www.oberbank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
