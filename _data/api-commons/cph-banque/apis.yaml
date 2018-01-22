@@ -1,0 +1,27 @@
+name: CPH Banque
+description: Le CPH est une banque coopu00e9rative belge dont le siu00e8ge est u00e0
+  Tournai. Ses agences sont ru00e9parties en Wallonie dans le Hainaut ainsi quu00e0
+  Namur, Nivelles et Wavre.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28049-www-cph-be.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/cph-banque/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: info@cph.be
+- type: x-email
+  url: bldge@cph.be
+- type: x-twitter
+  url: https://twitter.com/CPHBanque
+- type: x-website
+  url: https://www.cph.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
