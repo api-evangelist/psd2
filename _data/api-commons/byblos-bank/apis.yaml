@@ -1,0 +1,25 @@
+name: Byblos Bank
+description: Byblos Bank provides full-fledged consumer banking, commercial banking,
+  correspondent banking, and capital markets services to an ever growing clientele,
+  both locally and internationally. Call Center +961 1 205050.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28046-www-byblosbank-com.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/byblos-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: customerservice@byblosbank.com.lb
+- type: x-twitter
+  url: https://twitter.com/BYBLOSBANK
+- type: x-website
+  url: https://www.byblosbank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
