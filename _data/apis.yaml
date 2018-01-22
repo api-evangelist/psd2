@@ -1,56 +1,189 @@
-name: API Evangelist
-description: These are my APIs for my API industry research, studying over 70 areas along an API life cycle.
-image: http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
-tags:
-  - API
-  - Integrations
-created: "2017-05-09"
-modified: "2017-05-09"
-url: https://apievangelist.com/apis.json
+name: PSD2
+created: "2018-01-21"
+modified: "2018-01-21"
+url: http://apievangelist.com/apis.yaml
 specificationVersion: "0.14"
-apis:
-  - name: Products API
-    description: This is my simple API for managing my products.
-    image: http://apievangelist.com/images/product-square.png
-    humanURL: http://apievangelist.com/
-    baseURL: http://apievangelist.com/
-    tags:
-      - API Evangelist
-      - Products
-    properties:
-      - type: x-openapi
-        url: http://apievangelist.com/apis/products/openapi.json
-  - name: Services API
-    description: This is my simple API for managing my services.
-    image: http://apievangelist.com/images/services-square.png
-    humanURL: http://apievangelist.com/
-    baseURL: http://apievangelist.com/
-    tags:
-      - API Evangelist
-      - Services
-    properties:
-      - type: x-openapi
-        url: http://apievangelist.com/apis/services/openapi.json
-  - name: Partners API
-    description: This is my simple API for managing my partners across the sites.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-partner.png
-    humanURL: http://apievangelist.com/
-    baseURL: http://apievangelist.com/
-    tags:
-      - API Evangelist
-      - Partners
-    properties:
-      - type: x-openapi
-        url: http://apievangelist.com/apis/partners/openapi.json
-x-common:
-  - type: x-support
-    url: https://github.com/kinlane/api-evangelist/issues
-  - type: x-documentation
-    url: http://apievangelist.com/documentation/
-  - type: x-github-repo
-    url: https://github.com/kinlane/api-evangelist
-include: []
-maintainers:
-  - FN: Kin Lane
-    x-twitter: apievangelist
-    email: info@apievangelist.com
+apis: []
+tags:
+- PSD2
+- EU Bank
+- EU Bank
+include:
+- name: ""
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons//apis.yaml
+- name: ""
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons//apis.yaml
+- name: ""
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons//apis.yaml
+- name: ABN AMRO
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/abn-amro/apis.yaml
+- name: Allianz Invest Kapitalanlage
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/allianz-invest-kapitalanlage/apis.yaml
+- name: "Argenta Belgi\xEB"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/argenta-belgi/apis.yaml
+- name: Austrian Anadi Bank AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/austrian-anadi-bank-ag/apis.yaml
+- name: "AXA Bank Belgi\xEB"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/axa-bank-belgi/apis.yaml
+- name: Bank Gutmann
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bank-gutmann/apis.yaml
+- name: Bank-haus Schelhammer & Schattera Kapitalanlageges.mbH
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bankhaus-schelhammer--schattera-kapitalanlagegesmbh/apis.yaml
+- name: Bankhaus Denzel
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bankhaus-denzel/apis.yaml
+- name: Bankhaus Krentschker & Co
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bankhaus-krentschker--co/apis.yaml
+- name: "Bankhaus Sp\xE4ngler"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bankhaus-spngler/apis.yaml
+- name: Banque de Luxembourg
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/banque-de-luxembourg/apis.yaml
+- name: BAWAG PSK
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bawag-psk/apis.yaml
+- name: BBVA
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bbva/apis.yaml
+- name: Belfius Bank and Insurance
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/belfius-bank-and-insurance/apis.yaml
+- name: Beobank NV/SA
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/beobank-nvsa/apis.yaml
+- name: Berenberg Capital Markets
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/berenberg-capital-markets/apis.yaml
+- name: BinckBank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/binckbank/apis.yaml
+- name: BKS Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bks-bank/apis.yaml
+- name: BMW Financial Services Region Central and Southeastern Europe
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bmw-financial-services-region-central-and-southeastern-europe/apis.yaml
+- name: BNP Paribas
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bnp-paribas/apis.yaml
+- name: BNP Paribas Fortis
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bnp-paribas-fortis/apis.yaml
+- name: bpost banque / bpost bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bpost-banque--bpost-bank/apis.yaml
+- name: "Br\xFCll Kallmus Bank"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/brll-kallmus-bank/apis.yaml
+- name: "BTV Vier L\xE4nder Bank"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/btv-vier-lnder-bank/apis.yaml
+- name: Byblos Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/byblos-bank/apis.yaml
+- name: Capital Bank Grawe Gruppe
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/capital-bank-grawe-gruppe/apis.yaml
+- name: card complete Service Bank AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/card-complete-service-bank-ag/apis.yaml
+- name: CBC Banque & Assurance
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/cbc-banque--assurance/apis.yaml
+- name: CIC
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/cic/apis.yaml
+- name: Commerzbank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/commerzbank/apis.yaml
+- name: CPH Banque
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/cph-banque/apis.yaml
+- name: "Cr\xE9dit Agricole CIB"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/crdit-agricole-cib/apis.yaml
+- name: "Cr\xE9dit Mutuel Ark\xE9a"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/crdit-mutuel-arka/apis.yaml
+- name: Credit Suisse
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/credit-suisse/apis.yaml
+- name: Delen Private Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/delen-private-bank/apis.yaml
+- name: Deutsche Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/deutsche-bank/apis.yaml
+- name: DHB Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/dhb-bank/apis.yaml
+- name: Dierickx Leys Private Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/dierickx-leys-private-bank/apis.yaml
+- name: Erste Bank und Sparkasse
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/erste-bank-und-sparkasse/apis.yaml
+- name: Erste Group Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/erste-group-bank/apis.yaml
+- name: European American Investment Bank Aktiengesellschaft
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/european-american-investment-bank-aktiengesellschaft/apis.yaml
+- name: FCA BANK
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/fca-bank/apis.yaml
+- name: FinTech Group AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/fintech-group-ag/apis.yaml
+- name: Ford Austria
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/ford-austria/apis.yaml
+- name: Groupe BPCE
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/groupe-bpce/apis.yaml
+- name: HBL
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/hbl/apis.yaml
+- name: http://www.bb.com.br
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/httpwwwbbcombr/apis.yaml
+- name: https://www.easybank.at
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/httpswwweasybankat/apis.yaml
+- name: ING Belgium
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/ing-belgium/apis.yaml
+- name: ING-DiBa Austria
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/ingdiba-austria/apis.yaml
+- name: LCH
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/lch/apis.yaml
+- name: LGT
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/lgt/apis.yaml
+- name: LLB AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/llb-ag/apis.yaml
+- name: Macquarie Group
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/macquarie-group/apis.yaml
+- name: Mercedes-Benz Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/mercedesbenz-bank/apis.yaml
+- name: Mitsubishi Ufj Financial Group
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/mitsubishi-ufj-financial-group/apis.yaml
+- name: Nagelmackers
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/nagelmackers/apis.yaml
+- name: NIBC Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/nibc-bank/apis.yaml
+- name: Oberbank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/oberbank/apis.yaml
+- name: OeEB
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/oeeb/apis.yaml
+- name: Oesterreichische Kontrollbank AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/oesterreichische-kontrollbank-ag/apis.yaml
+- name: Oesterreichische Nationalbank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/oesterreichische-nationalbank/apis.yaml
+- name: paybox
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/paybox/apis.yaml
+- name: Penize CZ
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/penize-cz/apis.yaml
+- name: Raiffeisen Bank International
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/raiffeisen-bank-international/apis.yaml
+- name: Raiffeisen Bausparkasse GmbH
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/raiffeisen-bausparkasse-gmbh/apis.yaml
+- name: RCI Banque
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/rci-banque/apis.yaml
+- name: Record Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/record-bank/apis.yaml
+- name: Sberbank Europe AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/sberbank-europe-ag/apis.yaml
+- name: Semper Constantia Privatbank Aktiengesellschaft
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/semper-constantia-privatbank-aktiengesellschaft/apis.yaml
+- name: SIX
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/six/apis.yaml
+- name: "Soci\xE9t\xE9 G\xE9n\xE9rale"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/socit-gnrale/apis.yaml
+- name: State Street
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/state-street/apis.yaml
+- name: Steyler Bank GmbH
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/steyler-bank-gmbh/apis.yaml
+- name: UBS
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/ubs/apis.yaml
+- name: UniCredit Bank Austria AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/unicredit-bank-austria-ag/apis.yaml
+- name: VakifBank International AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/vakifbank-international-ag/apis.yaml
+- name: Van Lanschot
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/van-lanschot/apis.yaml
+- name: VKB-Bank
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/vkbbank/apis.yaml
+- name: Volksbank Salzburg eG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/volksbank-salzburg-eg/apis.yaml
+- name: Volksbank Tirol Innsbruck-Schwaz AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/volksbank-tirol-innsbruckschwaz-ag/apis.yaml
+- name: VOLKSBANK WIEN AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/volksbank-wien-ag/apis.yaml
+- name: VR-Bank Rottal-Inn
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/vrbank-rottalinn/apis.yaml
+- name: Walser Privatbank AG
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/walser-privatbank-ag/apis.yaml
+- name: "W\xFCstenrot"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/wstenrot/apis.yaml
+- name: Wiener Privatbank SE
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/wiener-privatbank-se/apis.yaml
