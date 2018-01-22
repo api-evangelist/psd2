@@ -1,0 +1,22 @@
+name: Van Lanschot
+description: 'Van Lanschot is de oudste onafhankelijke private bank van Nederland.
+  Met persoonlijke aandacht onderscheiden we ons. Leer ons kennen. '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28063-www-vanlanschot-nl.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/van-lanschot/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/VanLanschot
+- type: x-website
+  url: https://www.vanlanschot.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
