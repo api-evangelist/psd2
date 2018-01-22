@@ -1,0 +1,26 @@
+name: BNP Paribas Fortis
+description: Welcome to BNP Paribas Fortis, your financial and banking partner at
+  the heart of a changing world.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28064-www-bnpparibasfortis-com.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bnp-paribas-fortis/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bnp-paribas-fortis
+- type: x-email
+  url: privacy@bnpparibasfortis.com
+- type: x-twitter
+  url: https://twitter.com/BNPPFBelgique
+- type: x-website
+  url: https://www.bnpparibasfortis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
