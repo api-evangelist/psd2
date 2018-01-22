@@ -1,0 +1,41 @@
+name: Commerzbank
+description: 'The Commerzbank website offers information and services for customers,
+  the press, investors, applicants and other interested users. '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27986-www-commerzbank-com.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/commerzbank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/commerzbank
+- type: x-email
+  url: datenschutzbeauftragter@commerzbank.com
+- type: x-email
+  url: hrdirect@commerzbank.com
+- type: x-email
+  url: nachhaltigkeit@commerzbank.com
+- type: x-email
+  url: pressestelle@commerzbank.com
+- type: x-email
+  url: ir@commerzbank.com
+- type: x-email
+  url: info@commerzbank.com
+- type: x-email
+  url: Nikolaus.Giesbert@commerzbank.com
+- type: x-email
+  url: angela.kurrle@commerzbank.com
+- type: x-email
+  url: holger.kautzky@commerzbank.com
+- type: x-email
+  url: jochen.mueller2@commerzbank.com
+- type: x-website
+  url: https://www.commerzbank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
