@@ -1,0 +1,30 @@
+name: FinTech Group AG
+description: 'Die FinTech Group AG ist einer der fu00fchrenden europu00e4ischen Anbieter
+  innovativer Technologien im Finanzsektor. '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27979-www-fintechgroup-com.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/fintech-group-ag/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fintech-group-ag-3
+- type: x-email
+  url: info@fintechgroup.com
+- type: x-email
+  url: hr_ffm@fintechgroup.com
+- type: x-email
+  url: hr-kulmbach@fintechgroup.com
+- type: x-twitter
+  url: https://twitter.com/FinTech_AG
+- type: x-website
+  url: https://www.fintechgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
