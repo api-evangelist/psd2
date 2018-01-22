@@ -1,20 +1,13 @@
 name: PSD2
 created: "2018-01-21"
 modified: "2018-01-21"
-url: http://apievangelist.com/apis.yaml
+url: http://psd2.apievangelist.com/apis.json
 specificationVersion: "0.14"
 apis: []
 tags:
 - PSD2
 - EU Bank
-- EU Bank
 include:
-- name: ""
-  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons//apis.yaml
-- name: ""
-  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons//apis.yaml
-- name: ""
-  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons//apis.yaml
 - name: ABN AMRO
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/abn-amro/apis.yaml
 - name: Allianz Invest Kapitalanlage
