@@ -1,0 +1,19 @@
+name: Wiener Privatbank SE
+description: 'Wiener Privatbank: Ihr professioneller Berater in allen Fragen zum Thema
+  Private Banking  Asset Management. Ihr Immobilienmakler, -verwalter und Bautru00e4ger.'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27975-www-wienerprivatbank-com.jpg
+tags:
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/wiener-privatbank-se/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.wienerprivatbank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
