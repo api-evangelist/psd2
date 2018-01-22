@@ -1,0 +1,30 @@
+name: Deutsche Bank
+description: Central Portal of Deutsche Bank Group, one of the worlds leading financial
+  service providers. News  Information about the Group and its businesses.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27958-deutsche-bank.jpg
+tags:
+- Financial Services
+- Finance
+- EU Bank
+- Asset Management
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/deutsche-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/deutsche-bank
+- type: x-email
+  url: deutsche.bank@db.com
+- type: x-email
+  url: MiFID2.outreach@db.com
+- type: x-twitter
+  url: https://twitter.com/DeutscheBank
+- type: x-website
+  url: https://www.db.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
