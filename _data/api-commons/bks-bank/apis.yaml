@@ -1,0 +1,22 @@
+name: BKS Bank
+description: 'Interessiert an #CSR, #Kultur. Informiert u00fcber #Finanzen und News
+  aus dem Unternehmen. socialmedia@bks.at; http://t.co/vNWnWogtKE'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27950-www-bks-at.jpg
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bks-bank/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/BKSBank
+- type: x-website
+  url: https://www.bks.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
