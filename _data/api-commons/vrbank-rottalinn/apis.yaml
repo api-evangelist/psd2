@@ -1,0 +1,22 @@
+name: VR-Bank Rottal-Inn
+description: 'Von Altersvorsorge u00fcber Girokonto bis Versicherung: Privatkunden
+  finden gute Beratung und Service bei der VR-Bank Rottal-Inn eG.'
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+tags:
+- Financial Services
+- EU Bank
+created: "2018-01-21"
+modified: "2018-01-21"
+url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/vrbank-rottalinn/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-email
+  url: mail@vrbk.de
+- type: x-website
+  url: https://www.vrbk.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
