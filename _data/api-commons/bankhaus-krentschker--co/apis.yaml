@@ -1,6 +1,9 @@
 name: Bankhaus Krentschker u0026 Co
-description: ""
-image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+description: 'n 1923, Igo Forster founded a bank and exchange business in Leibnitz
+  with a second location at the main train station in Graz . In 1924, Moritz Krentschker,
+  an employee of the currency exchange, and Kurt Pramberger joined as co-shareholders
+  and in 1926 received a bank concession. '
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BK-LogoQ_GW_pos.jpg
 tags:
 - Financial Services
 - EU Bank

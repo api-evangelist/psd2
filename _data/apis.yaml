@@ -1,11 +1,12 @@
 name: PSD2
 created: "2018-01-21"
 modified: "2018-01-21"
-url: http://psd2.apievangelist.com/apis.json
+url: http://apievangelist.com/apis.yaml
 specificationVersion: "0.14"
 apis: []
 tags:
 - PSD2
+- EU Bank
 - EU Bank
 include:
 - name: ABN AMRO
@@ -18,6 +19,8 @@ include:
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/austrian-anadi-bank-ag/apis.yaml
 - name: "AXA Bank Belgi\xEB"
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/axa-bank-belgi/apis.yaml
+- name: "\xD6sterreichische \xC4rzte- und Apothekerbank AG"
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/sterreichische-rzte-und-apothekerbank-ag/apis.yaml
 - name: Bank Gutmann
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bank-gutmann/apis.yaml
 - name: Bank-haus Schelhammer & Schattera Kapitalanlageges.mbH
@@ -46,6 +49,8 @@ include:
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bks-bank/apis.yaml
 - name: BMW Financial Services Region Central and Southeastern Europe
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bmw-financial-services-region-central-and-southeastern-europe/apis.yaml
+- name: BNP Paribas
+  url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bnp-paribas/apis.yaml
 - name: BNP Paribas
   url: https://raw.githubusercontent.com/api-evangelist/psd2/master/_data/api-commons/bnp-paribas/apis.yaml
 - name: BNP Paribas Fortis
